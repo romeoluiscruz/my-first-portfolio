@@ -4,34 +4,25 @@
 
 export const categories = [
     {
-      title: 'Design',
+      title: 'Basics in Programming',
       skills: [
-        { name: 'Figma', desc: 'Components, auto layout and design tokens.', icon: 'design' },
-        { name: 'Prototyping', desc: 'Clickable flows and micro-interactions.', icon: 'layout' },
-        { name: 'Wireframing', desc: 'Low-fi sketches to high-fi screens.', icon: 'layout' },
-        { name: 'Design Drafts', desc: 'Quick and dirty designs for testing.', icon: 'layout' },
+        { name: 'Dev C++', desc: 'Coding, Programming, Debugging, and Design', icon: 'Dev C++' },
+        { name: 'Visual Studio Code', desc: 'Coding, Programming, Debugging, and Design', icon: 'VSC' },
+        { name: 'Eclipse Studio for Java', desc: 'Coding, Programming, and Debugging', icon: 'Eclipse' },
       ],
     },
     {
-      title: 'Research',
+      title: 'Group Skills',
       skills: [
-        { name: 'User interviews', desc: 'Finding the real problem before drawing.', icon: 'search' },
-        { name: 'Usability testing', desc: 'Quick rounds with five users.', icon: 'search' },
+        { name: 'Collaboration', desc: 'Can easily collaborate with people', icon: 'Collaboration' },
+        { name: 'Team Work', desc: 'Can easily work with teams in a fast-pace setting', icon: 'Team Work' },
       ],
     },
     {
-      title: 'Front-end and Cloud',
+      title: 'In General Skills',
       skills: [
-        { name: 'HTML and CSS', desc: 'Turning designs into working pages.', icon: 'code' },
-        { name: 'JavaScript basics', desc: 'Small interactions and form checks.', icon: 'code' },
-        { name: 'AWS fundamentals', desc: 'Learning cloud basics in the club.', icon: 'cloud' },
-      ],
-    },
-    {
-      title: 'Tools',
-      skills: [
-        { name: 'Git and GitHub', desc: 'Version control and handoff.', icon: 'git' },
-        { name: 'Notion', desc: 'Roadmaps, notes and design docs.', icon: 'tools' },
+        { name: 'Listening', desc: 'Listens to people.', icon: 'Listening' },
+        { name: 'Waiting', desc: 'I am patient and can also wait for people/things even for a long time', icon: 'Waiting' },
       ],
     },
   ];

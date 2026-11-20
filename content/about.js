@@ -1,8 +1,8 @@
 // EDIT THIS FILE: Change text in quotes. To add an item, copy an existing item and keep its commas and brackets.
 
 export const details = [
-    ['Full name', 'Wow'],
-    ['Background', 'GI am currently taking up BS Information Technology at San Beda University - Manila'],
+    ['Full name', 'Romeo Luis Pascua Cruz'],
+    ['Background', 'I am currently taking up BS Information Technology at San Beda University - Manila'],
     ['Personal interests', 'Sleeping, Cooking, and Binge Watching'],
     ['Professional interests', 'Coding and Designing Programs for Fun'],
     ['Learning journey', 'Started with C++ and C#, currently learning Java!'],
